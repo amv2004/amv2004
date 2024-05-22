@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amv2004
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Data Science, Data Visualization in Python
+- 🌱 I’m currently learning Data Science, Data Visualization in Python, C
 - ⚡ Fun fact: I can be a great coding companion!
 
 <!---
